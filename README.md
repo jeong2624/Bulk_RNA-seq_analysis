@@ -1,6 +1,6 @@
 # RNA-seq-workflow
 
-This repository contains Bulk RNA-seq pipeline script by using bash script and "edgeR" R package.
+This repository contains Bulk RNA-seq pipeline script by using bash script and "EdgeR" R package.
 
 Bulk RNA-seq analysis workflow - From .fastq files, downstream to any sort of data processing and differentially expressed gene analysis. 
 
