@@ -1,0 +1,47 @@
+name: RNA-seq
+channels:
+  - bioconda
+  - conda-forge
+dependencies:
+  - bzip2=1.0.8=h0d85af4_4
+  - c-ares=1.20.1=h10d778d_1
+  - ca-certificates=2023.7.22=h8857fd0_0
+  - expat=2.5.0=hf0c8a7f_1
+  - fastqc=0.11.9=hdfd78af_1
+  - font-ttf-dejavu-sans-mono=2.37=hab24e00_0
+  - fontconfig=2.14.2=h5bb23bf_0
+  - freetype=2.12.1=h60636b9_2
+  - hisat2=2.2.1=h7133b54_6
+  - htslib=1.18=h365c357_0
+  - krb5=1.21.2=hb884880_0
+  - libcurl=8.4.0=h726d00d_0
+  - libcxx=16.0.6=hd57cbcb_0
+  - libdeflate=1.19=ha4e1b8e_0
+  - libedit=3.1.20191231=h0678c8f_2
+  - libev=4.33=haf1e3a3_1
+  - libexpat=2.5.0=hf0c8a7f_1
+  - libffi=3.4.2=h0d85af4_5
+  - libnghttp2=1.55.1=hc0a10c5_0
+  - libpng=1.6.39=ha978bb4_0
+  - libssh2=1.11.0=hd019ec5_0
+  - libzlib=1.2.13=h8a1eda9_5
+  - ncurses=6.2=h2e338ed_4
+  - openjdk=21.0.1=hf4d7fad_0
+  - openssl=3.1.4=hd75f5a5_0
+  - perl=5.32.1=4_h0dc2134_perl5
+  - pip=23.3.1=pyhd8ed1ab_0
+  - python=3.9.9=h38b4d05_0_cpython
+  - readline=8.1=h05e3726_0
+  - samtools=1.14=hdbfa7a9_0
+  - setuptools=68.2.2=pyhd8ed1ab_0
+  - sickle-trim=1.33=h45fc8d7_9
+  - sqlite=3.37.0=h23a322b_0
+  - subread=2.0.1=h188c3c3_1
+  - tk=8.6.13=hef22860_0
+  - trimmomatic=0.39=hdfd78af_2
+  - tzdata=2023c=h71feb2d_0
+  - wheel=0.41.3=pyhd8ed1ab_0
+  - xz=5.2.6=h775f41a_0
+  - zlib=1.2.13=h8a1eda9_5
+  - zstd=1.5.5=h829000d_0
+prefix: /Users/jeong-woonpark/miniforge3/envs/RNA-seq
